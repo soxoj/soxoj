@@ -11,4 +11,6 @@
 #### Useful projects
 
 - [OSINT CLI tool skeleton](https://github.com/soxoj/osint-cli-tool-skeleton) - a template of Python project for new OSINT command-line tools
+- [HowToFind OSINT tools catalog](https://github.com/HowToFind-bot/osint-tools) - a user-frendly catagorized catalog of open-source OSINT tools
 - [Username generation guide](https://github.com/soxoj/username-generation-guide) - a definitive guide to generating usernames for OSINT purposes
+- [OSINT namecheckers list](https://github.com/soxoj/osint-namecheckers-list) - a curated list of all the tools for checking accounts existence by username

@@ -14,3 +14,5 @@
 - [HowToFind OSINT tools catalog](https://github.com/HowToFind-bot/osint-tools) - a user-frendly catagorized catalog of open-source OSINT tools
 - [Username generation guide](https://github.com/soxoj/username-generation-guide) - a definitive guide to generating usernames for OSINT purposes
 - [OSINT namecheckers list](https://github.com/soxoj/osint-namecheckers-list) - a curated list of all the tools for checking accounts existence by username
+
+<img src="https://img.shields.io/github/stars/soxoj?label=stars" alt="Total Stars"> <img src="http://views.whatilearened.today/views/github/soxoj/views.svg"/>

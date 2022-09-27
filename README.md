@@ -4,7 +4,9 @@
 
 ⚒️ My hobby is making tools for information gathering and processing. Check the links below or [visit my repositories page](https://github.com/soxoj?tab=repositories).
 
-🎥 Sometimes I talk about search methods and privacy at public events. You can look at some of my talks [on YouTube](https://www.youtube.com/results?search_query=soxoj).
+🎙️ Sometimes I talk about search methods and privacy at public events. You can look at some of my talks on [my YouTube channel](https://www.youtube.com/channel/UCx6xqK3ONU4WYunNnsAaYeA).
+
+🎥 I recently started organizing monthly OSINT meetups, recording and [publishing videos](https://www.youtube.com/playlist?list=PLskYWMG4mV-7A2tKggMryk18tbwC7jLhX) of the most interesing talks.
 
 ✍️ Also, I write articles and guides in my telegram channel [OSINT mindset](https://t.me/osint_mindset) and here in GitHub.
 
@@ -22,4 +24,4 @@
 
 --- 
 
-☕ **If you want support me, check [my Patreon](https://www.patreon.com/soxoj).**
+☕ If you want support me, check [my Patreon](https://www.patreon.com/soxoj) (for OSINT specialists) and [Boosty](https://boosty.to/soxoj) (for meetups).

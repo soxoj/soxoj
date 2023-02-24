@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-**I am a security engineer and OSINT enthusiast.** 🔐 
+I am **OSINT enthusiast** with a background in cybesecurity and software development. 🔐 
 
 ⚒️ My hobby is making tools for information gathering and processing. Check the links below or [visit my repositories page](https://github.com/soxoj?tab=repositories).
 
-🎙️ Sometimes I talk about search methods and privacy at public events. You can look at some of my talks on [my YouTube channel](https://www.youtube.com/channel/UCx6xqK3ONU4WYunNnsAaYeA).
+🎙️ Sometimes I talk about search methods and privacy at public events. You can look at some of my talks on [my YouTube channel](https://www.youtube.com/playlist?list=PLskYWMG4mV-6osVePbwJa2Tp2Bc2EUI1p).
 
-🎥 I recently started organizing monthly OSINT meetups, recording and [publishing videos](https://www.youtube.com/playlist?list=PLskYWMG4mV-7A2tKggMryk18tbwC7jLhX) of the most interesing talks.
+🎥 I am the organizer of OSINT mindset community: [monthly meetups](https://www.youtube.com/playlist?list=PLskYWMG4mV-7A2tKggMryk18tbwC7jLhX), [poscasts](https://www.youtube.com/playlist?list=PLskYWMG4mV-5D5A2CNOmWOOTO6D9kAYVm), [forum of OSINT investigations](https://t.me/+GMxoDCvLO0k0MWRi), and our wiki: https://osint-mindset.gitbook.io.
 
 ✍️ Also, I write articles and guides in my telegram channel [OSINT mindset](https://t.me/osint_mindset) and here in GitHub.
 

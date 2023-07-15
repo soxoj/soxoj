@@ -1,14 +1,18 @@
 ### Hi there 👋
 
-I am **OSINT enthusiast** with a background in cybesecurity and software development. 🔐 
+I am **OSINT enthusiast** with a background in cybersecurity and software development. 🔐 
 
-⚒️ My hobby is making tools for information gathering and processing. Check the links below or [visit my repositories page](https://github.com/soxoj?tab=repositories).
+⚒️ I started getting into OSINT in 2015, by making tools for information gathering and processing. Check the links below or visit [my repositories page](https://github.com/soxoj?tab=repositories).
 
-🎙️ Sometimes I talk about search methods and privacy at public events. You can look at some of my talks on [my YouTube channel](https://www.youtube.com/playlist?list=PLskYWMG4mV-6osVePbwJa2Tp2Bc2EUI1p).
+🎙️ Since 2018 I've been talking about OSINT, search methods, and privacy at public events. You can look at some of my talks on [my YouTube channel](https://www.youtube.com/playlist?list=PLskYWMG4mV-6osVePbwJa2Tp2Bc2EUI1p).
 
-🎥 I am the organizer of OSINT mindset community: [monthly meetups](https://www.youtube.com/playlist?list=PLskYWMG4mV-7A2tKggMryk18tbwC7jLhX), [poscasts](https://www.youtube.com/playlist?list=PLskYWMG4mV-5D5A2CNOmWOOTO6D9kAYVm), [forum of OSINT investigations](https://t.me/+GMxoDCvLO0k0MWRi), and our wiki: https://osint-mindset.gitbook.io.
+🎥 Later I founded the OSINT mindset community (2020 - [first post](https://t.me/osint_mindset/5), 2022 - [first meetup](https://t.me/osint_mindset/94)). The community has 15K subscribers, almost 4K members of [Investigation Forum](https://t.me/+GMxoDCvLO0k0MWRi), and dozens of active members and speakers. You can watch records of talks from [monthly meetups on YouTube](https://www.youtube.com/playlist?list=PLskYWMG4mV-7A2tKggMryk18tbwC7jLhX), listen OSINT mindset [podcasts on platforms](https://osint-mindset.mave.digital/), and read the excellent [wiki on Gitbook](https://osint-mindset.gitbook.io).
 
-✍️ Also, I write articles and guides in my telegram channel [OSINT mindset](https://t.me/osint_mindset) and here in GitHub.
+---
+
+💼 Currently, I lead a team of OSINT experts in the Center of Excellence of Social Links: we conduct investigations, teach OSINT, and help to develop new methods and tools.
+
+✍️ Some of my articles and guides you can find in the Telegram channel of [OSINT mindset](https://t.me/osint_mindset) community and here on GitHub.
 
 #### Some useful projects
 
@@ -24,4 +28,4 @@ I am **OSINT enthusiast** with a background in cybesecurity and software develop
 
 --- 
 
-☕ If you want support me, check [my Patreon](https://www.patreon.com/soxoj) (for OSINT specialists) and [Boosty](https://boosty.to/soxoj) (for meetups).
+☕ If you want to support me personally, check [my Patreon](https://www.patreon.com/soxoj), or check [Boosty](https://boosty.to/soxoj) to support OSINT mindset community.

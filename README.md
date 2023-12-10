@@ -16,7 +16,7 @@ I am an **OSINT enthusiast** with a background in cybersecurity and software dev
 - [HowToFind OSINT tools catalog](https://github.com/HowToFind-bot/osint-tools) - a user-frendly catagorized catalog of open-source OSINT tools
 - [Username generation guide](https://github.com/soxoj/username-generation-guide) - a definitive guide to generating usernames for OSINT purposes
 - [OSINT namecheckers list](https://github.com/soxoj/osint-namecheckers-list) - a curated list of all the tools for checking accounts existence by username
-- [Counter-OSINT guide for Russians](https://github.com/soxoj/counter-osint-guide-ru) [[RU]](https://github.com/soxoj/counter-osint-guide-ru) [[EN]](https://github.com/soxoj/counter-osint-guide-en) - comprehensive counter OSINT and privacy guide for Runet and CIS
+- [Counter-OSINT guide](https://github.com/soxoj/counter-osint-guide-en) [[RU]](https://github.com/soxoj/counter-osint-guide-ru) [[EN]](https://github.com/soxoj/counter-osint-guide-en) [[BR]](https://github.com/alexandresantosal91/counter-osint-guide-pt-br) - comprehensive counter OSINT and privacy guides
 
 ---
 

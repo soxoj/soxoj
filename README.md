@@ -1,3 +1,6 @@
+<a href="https://sociallinks.io/products/sl-api?utm_source=github&utm_medium=organic_social&utm_campaign=soxoj_github">![432733277-deed3b69-5acb-4b20-a528-63dc2aa67896](https://github.com/user-attachments/assets/0bbba261-3f48-48eb-90ca-332daf3c2553)</a>
+
+
 ### Hi there 👋
 
 I am an **OSINT enthusiast** with a background in cybersecurity and software development. 🔐 
@@ -9,14 +12,6 @@ I am an **OSINT enthusiast** with a background in cybersecurity and software dev
 🕵🏽 Currently, I am CPO in [Social Links](https://sociallinks.io/). I initially set up the SL OSINT Center of Excellence, where SMEs conducted investigations, taught OSINT, and contributed to development of new methods and tools. Now, I'm focused on driving the growth of cutting-edge OSINT investigation tools.
 
 👉 Get more info about me here: https://soxoj.com/
-
-#### Some useful projects
-
-- [OSINT CLI tool skeleton](https://github.com/soxoj/osint-cli-tool-skeleton) - a template of Python project for new OSINT command-line tools
-- [HowToFind OSINT tools catalog](https://github.com/HowToFind-bot/osint-tools) - a user-frendly catagorized catalog of open-source OSINT tools
-- [Username generation guide](https://github.com/soxoj/username-generation-guide) - a definitive guide to generating usernames for OSINT purposes
-- [OSINT namecheckers list](https://github.com/soxoj/osint-namecheckers-list) - a curated list of all the tools for checking accounts existence by username
-- [Counter-OSINT guide](https://github.com/soxoj/counter-osint-guide-en) [[RU]](https://github.com/soxoj/counter-osint-guide-ru) [[EN]](https://github.com/soxoj/counter-osint-guide-en) [[BR]](https://github.com/vaginessa/counter-osint-guide-pt-br) - comprehensive counter OSINT and privacy guides
 
 ---
 

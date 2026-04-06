@@ -1,6 +1,3 @@
-<a href="https://sociallinks.io/products/sl-api?utm_source=github&utm_medium=organic_social&utm_campaign=soxoj_github">![432733277-deed3b69-5acb-4b20-a528-63dc2aa67896](https://github.com/user-attachments/assets/0bbba261-3f48-48eb-90ca-332daf3c2553)</a>
-
-
 ### Hi there 👋
 
 I am an **OSINT enthusiast** with a background in cybersecurity and software development. 🔐 
